@@ -1,7 +1,8 @@
  Hey 👋,
  
  I am a Front-end Developer based in Nigeria.<br>
-I am proficient in coding languages such as HTML, CSS, JavaScript, and progressing in react js.I am responsible for implementing visual elements that users see and interact with in a web application.
+I am proficient in coding languages such as HTML, CSS, JavaScript, and progressing in react js. <br> 
+I am responsible for implementing visual elements that users see and interact with in a web application.
 
 I intern at @FireSwitchTech.
 
