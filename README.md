@@ -5,12 +5,12 @@ I am proficient in coding languages such as HTML, CSS, JavaScript, and progressi
 
 I intern at @FireSwitchTech.
 
-🚀 Daily Drivers: Visual Studio Code, pintrest & Stack overflow.
-⚡ Fun fact: I love beans.
-🎉 Hobbies: Watching Documentaries, Reading.
-💬 Ask me about: JavaScript, Bootstrap, WebRTC.
-🌱 I’m currently learning React js and PHP.
-🔭 I’m currently working on a restuarant project.
+🚀 Daily Drivers: Visual Studio Code, pintrest & Stack overflow....<br>
+⚡ Fun fact: I love beans...
+🎉 Hobbies: Watching Documentaries, Reading...
+💬 Ask me about: JavaScript, Bootstrap, WebRTC...
+🌱 I’m currently learning React js and PHP...
+🔭 I’m currently working on a restuarant project...
 
 
 📬 Get in touch
