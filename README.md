@@ -1,20 +1,20 @@
  Hey 👋,
  
- I am a Front-end Developer based in Nigeria.
-I am proficient in coding languages such as HTML, CSS, JavaScript, and progressing in react js.I amresponsible for implementing visual elements that users see and interact with in a web application.
+ I am a Front-end Developer based in Nigeria.<br>
+I am proficient in coding languages such as HTML, CSS, JavaScript, and progressing in react js.I am responsible for implementing visual elements that users see and interact with in a web application.
 
 I intern at @FireSwitchTech.
 
 🚀 Daily Drivers: Visual Studio Code, pintrest & Stack overflow....<br>
-⚡ Fun fact: I love beans...
-🎉 Hobbies: Watching Documentaries, Reading...
-💬 Ask me about: JavaScript, Bootstrap, WebRTC...
-🌱 I’m currently learning React js and PHP...
-🔭 I’m currently working on a restuarant project...
+⚡ Fun fact: I love beans...<br>
+🎉 Hobbies: Watching Documentaries, Reading...<br>
+💬 Ask me about: JavaScript, Bootstrap, WebRTC...<br>
+🌱 I’m currently learning React js and PHP...<br>
+🔭 I’m currently working on a restuarant project...<br>
 
 
-📬 Get in touch
-Web: https://adelekeolamide.github.io/Olamide-s-Portfolio/
+📬 Get in touch<br>
+Web: https://adelekeolamide.github.io/Olamide-s-Portfolio/  <br>
 LinkedIn: linkedin.com/in/olamide-dolapo-adeleke-630182196/
 
 
