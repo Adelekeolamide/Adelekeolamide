@@ -1,4 +1,5 @@
- Hey 👋,
+
+ # Hello, Creative!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
  I am a Front-end Developer based in Nigeria.<br>
 I am proficient in coding languages such as HTML, CSS, JavaScript, and progressing in react js. <br> 
@@ -17,6 +18,16 @@ I intern at @FireSwitchTech.
 📬 Get in touch<br>
 Web: https://adelekeolamide.github.io/Olamide-s-Portfolio/  <br>
 LinkedIn: linkedin.com/in/olamide-dolapo-adeleke-630182196/
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+
+
+
+
+
+
 
 
 <!--
