@@ -9,7 +9,7 @@ I intern at @FireSwitchTech.
 
 🚀 Daily Drivers: Visual Studio Code, pintrest & Stack overflow....<br>
 ⚡ Fun fact: I love beans...<br>
-🎉 Hobbies: Watching Documentaries, Reading...<br>
+🎉 Hobbies: Watching Documentaries and Reading...<br>
 💬 Ask me about: JavaScript, Bootstrap, WebRTC...<br>
 🌱 I’m currently learning React js and PHP...<br>
 🔭 I’m currently working on a restuarant project...<br>
