@@ -12,7 +12,7 @@ I intern at @FireSwitchTech.
 🎉 Hobbies: Watching Documentaries and Reading...<br>
 💬 Ask me about: JavaScript, Bootstrap, WebRTC...<br>
 🌱 I’m currently learning React js and PHP...<br>
-🔭 I’m currently working on a restuarant project...<br>
+🔭 I’m currently working on a moodern interior challenge...<br>
 
 
 📬 Get in touch<br>
